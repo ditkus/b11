@@ -1,6 +1,6 @@
 # AVM
 
-This is a Automated Valuation Model for Commercial Real Estate Valuations. This model is still in process and is not ready to use for now. The model should be able to produce Comercial Real Estate Veluations using following variables of specific country (this list is being updated):
+This is an Automated Valuation Model for Commercial Real Estate Valuations. This model is still in process and is not ready to use for now. The model should be able to produce Comercial Real Estate Veluations using following variables of specific country (this list is being updated):
 
   - Demographic data (population growth, population age distribution, migration).
   - Employment data.
