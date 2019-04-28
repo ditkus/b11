@@ -14,7 +14,7 @@ This is an Automated Valuation Model for Commercial Real Estate Valuations. This
   
 ### Installation
 
-This AVM should be build with easy to use API.
+This AVM will have easy to use API.
 
 
 
