@@ -1,3 +1,0 @@
-
-
-This AVM works most accurately with property valuations over 10M Eur.
