@@ -7,7 +7,8 @@ This is an Automated Valuation Model for Commercial Real Estate Valuations. This
   - Economic growth data.
   - Consumer spending data.
   - Import/Export activity data.
-  - Interest rate time series data.
+  - Interest rates time series data.
+  - Inflation rates data.
   - Historic valuation data on comparables. 
   - Lease and lease history data. 
   - Vacancy rates data.
