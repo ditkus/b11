@@ -10,6 +10,7 @@ This is an Automated Valuation Model for Commercial Real Estate Valuations. This
   - Interest rate time series data.
   - Historic valuation data on comparables. 
   - Lease and lease history data. 
+  - Vacancy rates.
   - Property tax data.
   
 ### Installation
